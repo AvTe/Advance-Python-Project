@@ -1,0 +1,22 @@
+1.Create two enviroment install few packages in the 
+first one how do you do you create a similar
+enviroment in the second one ? 
+
+2.Write a program to input name marks and phone numbers 
+a student and format it usinf the format function like below 
+ 
+ example = The name of student is amit his marks are 90 and the phone
+ number is 999990909 (dont call him he is very busy person)
+
+3.A list contains the multiplication table of 7 write numbers
+is program to convert is to vertical string of same number (7)14....
+
+4.Wrire a program to filter a list of number which is are 90 and the
+division by 5
+
+5.Write a program to find the maximum of the number in a list using the reduce function
+
+6. Run pip freeze for the system interpretor take the contents and create a similar
+virtualenv 
+
+7.Explor the flask module and create a web server 

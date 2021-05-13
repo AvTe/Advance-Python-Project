@@ -1,0 +1,10 @@
+a = [3, 6, 7, 8, 2, 4, 23, 75, 23, 123, 37,]
+
+# b = []
+# for item in a:
+#     if item%2==0:
+#         b.append(item)
+# print(b)
+
+b = [i for i in a if i%2==0]
+print(b)
